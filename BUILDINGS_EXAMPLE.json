@@ -1,0 +1,20 @@
+{
+  "CommunityHub": {
+    "buildingName": "CommunityHub",
+    "baseCost": 10,
+    "baseProductionPerMinute": 5.0,
+    "produces": "Engagement"
+  },
+  "MemeFactory": {
+    "buildingName": "MemeFactory",
+    "baseCost": 20,
+    "baseProductionPerMinute": 3.0,
+    "produces": "Hype"
+  },
+  "MusicStudio": {
+    "buildingName": "MusicStudio",
+    "baseCost": 15,
+    "baseProductionPerMinute": 2.5,
+    "produces": "BongoToken"
+  }
+}
